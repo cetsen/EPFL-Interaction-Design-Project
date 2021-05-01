@@ -9,4 +9,4 @@ You may also check out our reports to see the full design process:
 * Design Brief I contains our domain research, POV statement, competitive analysis, and SUNA analysis.
 * Design Brief II contains our persona hypothesis, interview findings, behavior variables, and primary persona.
 * Design Brief III contains our vision statament, context scenarios, task tree, and requirements extraction.
-* Design Brief IV contains our key path scenarios and application of interaction design principles
+* Design Brief IV contains our key path scenarios and application of interaction design principles.
