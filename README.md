@@ -3,7 +3,7 @@
 PunctuAll™ helps users overcome lateness, avoid the shame that comes with it, and improve their daily productivity. It achieves this by allowing its users to compete with their peers in a “race” to an event, to check their progress in their journey through checkpoints and to compare their lateness against each other through a ranking system based on “punctuality points”.
 
 You may watch this short video explaining our app using a prototype:
-https://drive.google.com/file/d/1KeiOYYLuMALVwzMzORdqI8N4JlDoHU5F/view?usp=sharing
+https://www.youtube.com/watch?v=N1oDPATLbHc
 
 You may also check out our reports to see the full design process:
 * Design Brief I contains our domain research, POV statement, competitive analysis, and SUNA analysis.
